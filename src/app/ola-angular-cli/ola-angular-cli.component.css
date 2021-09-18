@@ -1,0 +1,8 @@
+div {
+    width: 1280px;
+    margin: auto;
+    text-align: center;
+    border: 1px solid black;
+    background-color: grey;
+    max-width: 2rem;
+}
